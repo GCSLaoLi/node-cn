@@ -5,9 +5,9 @@
 
 
 
-DockerHub发布地址： https://hub.docker.com/r/gcslaoli/node-cn
+DockerHub发布地址: https://hub.docker.com/r/gcslaoli/node-cn
 
-源码位于 https://github.com/GCSLaoLi/node-cn
+GitHub源码位于: https://github.com/GCSLaoLi/node-cn
 
 ## 与官方差异
 * npm配置华为镜像源
@@ -18,6 +18,6 @@ DockerHub发布地址： https://hub.docker.com/r/gcslaoli/node-cn
 | 官方版本           | 国内镜像版                  |
 | ------------------ | --------------------------- |
 | node:lts           | gcslaoli/node-cn:lts        |
-| node-cn:lts-alpine | gcslaoli/node-cn:lts-alpine |
+| node:lts-alpine | gcslaoli/node-cn:lts-alpine |
 | node:latest        | gcslaoli/node-cn:latest     |
 
