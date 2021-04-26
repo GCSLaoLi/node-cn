@@ -9,3 +9,9 @@ services:
   node-cn-lts-alpine:
     build: ./lts-alpine
     image: gcslaoli/node-cn:lts-alpine
+  node-cn-12:
+    build: ./12
+    image: gcslaoli/node-cn:12
+  node-cn-12-alpine:
+    build: ./12-alpine
+    image: gcslaoli/node-cn:12-alpine
