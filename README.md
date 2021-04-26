@@ -9,6 +9,10 @@ DockerHub发布地址： https://hub.docker.com/r/gcslaoli/node-cn
 
 源码位于 https://github.com/GCSLaoLi/node-cn
 
+## 与官方差异
+* npm配置华为镜像源
+* 镜像默认时区调整为中国时区 `TZ="Asia/Shanghai"`
+
 ## 与官方镜像对应关系
 
 | 官方版本           | 国内镜像版                  |
