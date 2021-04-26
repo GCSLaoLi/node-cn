@@ -1,4 +1,5 @@
 FROM node:lts
+ENV TZ="Asia/Shanghai"
 RUN npm config set registry https://repo.huaweicloud.com/repository/npm/
 #  设置nodejs工具的镜像地址
 RUN npm config set disturl https://repo.huaweicloud.com/nodejs
