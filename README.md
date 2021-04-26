@@ -7,7 +7,9 @@
 
 DockerHub发布地址: https://hub.docker.com/r/gcslaoli/node-cn
 
-GitHub源码位于: https://github.com/GCSLaoLi/node-cn
+GitHub源码地址: https://github.com/GCSLaoLi/node-cn
+
+Gitee源码地址: https://gitee.com/gcslaoli/node-cn
 
 ## 与官方差异
 * npm配置华为镜像源
