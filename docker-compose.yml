@@ -1,5 +1,8 @@
 version: '3'
 services:
+  node-cn-latest:
+    build: ./latest
+    image: gcslaoli/node-cn:latest
   node-cn-lts:
     build: ./lts
     image: gcslaoli/node-cn:lts
